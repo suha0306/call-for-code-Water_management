@@ -21,6 +21,7 @@ Predictive analytics analyses current and historical facts to make predictions a
 
 ### Results
 
+The goal of wastewater management is to clean and protect water. This means that water must be clean enough so that it can be used by people for drinking and washing, and by industry for commercial purposes. It also must be clean enough to release into oceans, lakes, and rivers after it has been used.
 
 ## Acknowledgments
 
