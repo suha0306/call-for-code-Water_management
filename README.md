@@ -52,16 +52,6 @@ Water pollution is the major crisis all over the world. To overcome this we came
 
 ## Project roadmap
 
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
-
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
-
 ![Capture 1](https://user-images.githubusercontent.com/73995141/122271165-fcb27400-ce93-11eb-982b-e48294031614.PNG)
 
 ## Getting started
