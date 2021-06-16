@@ -64,9 +64,9 @@ Since we went for a visit to BHEL, as we walked through the premises we noticed 
 
 ## Built with 
 
-Jupyter notebook  
+1)Jupyter notebook, Google colab
 
-Google colab
+2)IBM Watson
 
 ## Contributing
 
