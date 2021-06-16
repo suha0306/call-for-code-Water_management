@@ -18,9 +18,7 @@
   - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
-  - [Versioning](#versioning)
   - [Authors](#authors)
-  - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
 ## Short description
@@ -64,9 +62,9 @@ Since we went for a visit to BHEL, as we walked through the premises we noticed 
 
 ## Built with 
 
-1)Jupyter notebook, Google colab
+- Jupyter notebook, Google colab
 
-2)IBM Watson
+- IBM Watson
 
 ## Contributing
 
