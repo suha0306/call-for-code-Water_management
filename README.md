@@ -58,13 +58,9 @@ Water pollution is the major crisis all over the world. To overcome this we came
 
 Since we went for a visit to BHEL, as we walked through the premises we noticed something which shooked us that is water was not treated properly before letting it into water bodies,  due to covid water is the main resource if water is polluted heath of people affected with covid will be the worst situation ever considering all this we concluded treating the water before living it to the  water bodies in an effective manner which is derived by machine learning along with a bot which makes the process even simpler then it looks
 
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
-
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+ [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
 
 ## Built with
 
@@ -77,24 +73,16 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+If we implement our idea the major contribution to the society will be that, it will not only help in keeping the water bodies clean but also it will help mankind in supplying safe water for their daily use. Water borne diseases can be reduced by treating waste water properly at its origin(i.e. Industrial waste water, sewage water,etc.)
+As water is precious jewel for our ecosystem this kind of ideas help preserve one of our most important natural resource i.e. Water resources.
 
 ## Authors
-
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
+Suha Naqhi    
+Niharika A N 
+Shweta Ishwar Naik 
+Pallavi R 
+Swati Ishwar Naik
 
 ## Acknowledgments
 
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+K Nagarathna
