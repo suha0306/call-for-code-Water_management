@@ -83,6 +83,5 @@ Pallavi R
 Swati Ishwar Naik
 
 ## Acknowledgments
-
-I would like to express special thanks of gratitude to IBM who gave us such a golden opportunity to showcase our talent.
-which also helped us in doing a lot of research and implement the same in our project and I came to know about so many new things
+We would like to express special thanks of gratitude to IBM and K Nagarathna Ma'am who gave us such a golden opportunity to showcase our talent.
+which also helped us in doing a lot of research and implement the same in our project and We came to know about so many new things.
