@@ -44,7 +44,7 @@ Water pollution is the major crisis all over the world. To overcome this we came
 
 ## The architecture
 
-![Video transcription/translation app](https://drive.google.com/file/d/1wVm3jRUEzceWNdjTSjR5Jp2AjinUGAfO/view?usp=sharing)
+![Video transcription/translation app](![wastewater treatment](https://user-images.githubusercontent.com/73995141/122270292-01c2f380-ce93-11eb-9313-4009478ebbb6.jpeg))
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
