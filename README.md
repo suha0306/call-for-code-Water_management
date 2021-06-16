@@ -77,10 +77,14 @@ If we implement our idea the major contribution to the society will be that, it 
 As water is precious jewel for our ecosystem this kind of ideas help preserve one of our most important natural resource i.e. Water resources.
 
 ## Authors
-Suha Naqhi    
+Suha Naqhi
+
 Niharika A N 
+
 Shweta Ishwar Naik 
-Pallavi R 
+
+Pallavi R
+
 Swati Ishwar Naik
 
 ## Acknowledgments
