@@ -1,4 +1,4 @@
-# Wastewater Treatment 
+# Treatment of waterborne Industrial Waste
 
 Industrial wastewater treatment describes the processes used for treating wastewater that is produced by industries as an undesirable by-product. After treatment, the treated industrial wastewater (or effluent) may be reused or released to a sanitary sewer or surface water in the environment. Most industrial processes, such as petroleum refineries, chemical, and petrochemical plants have onsite facilities to treat their wastewaters so that the pollutant concentrations in the treated wastewater comply with the regulations regarding disposal of wastewaters into sewers or rivers, lakes, or oceans. Recent trends have been to minimize such production or to recycle treated wastewater within the production process of the sources of industrial wastewater include battery manufacturing, electric power plants, food industry, iron and steel industry, mines and quarries, nuclear industry, oil and gas extraction, organic chemicals manufacturing, petroleum refining and petrochemicals, pulp, and paper industry, smelters, textile mills, industrial oil contamination, water treatment, wood preserving.
 
