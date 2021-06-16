@@ -33,15 +33,16 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+In this modern world, anything is possible through technology. There are lots of developments in all kinds of fields. One of the development is treatment of waste water. Nowadays, water pollution is a major issue, the wastewater which is released by industries without proper treatment affecting water bodies and aquatic lives. As a result, the wastewater must be treated properly by the industries before letting out. The drawback is that it affects the quality of water.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+The reclamation has become more important with the growing concern over the contamination of water resources due to toxic compounds released by the industries, advanced treatment technologies are required to remove various potentially harmful compounds that could not be effectively removed by conventional treatment processes. So we have used jupyter notebook and Google collaboration. Wastewater treatment involves reduction in pollutants in process from wastewater and proper operation and maintenance of the plant to obtain the desired performance. Wastewater treatment 
+technologies are crucial for urban water systems.       
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Water pollution is the major crisis all over the world. To overcome this we came up with our solution, more efficient way of treating waste water which is let out from the industries. Few industries won’t follow the norms of discharging waste water after the industrial process properly. Our idea is to make the process of water treatment in every industry more appropriate , and make sure that no water containing harmful substances should be let out to the water bodies. Without much of human intervention a machine learning system is designed by bus which can be interfaced by making use of IBM Watson chatbot. Through machine learning it will train the datasets (pertaining to levels of hazardous chemicals present in water after industrial process). Chatbot will get the training from Machine learning algorithm created by us and will act accordingly. It will also alert the person concerned if the water is not treated properly before letting it out. Also our system makes sure that the process is repeated again and water is treated with fully and is safe for letting it out to the water bodies. It will save aquatic life too.
 
 ## Demo video
 
