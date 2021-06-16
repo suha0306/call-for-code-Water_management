@@ -56,7 +56,7 @@ Water pollution is the major crisis all over the world. To overcome this we came
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+Since we went for a visit to BHEL, as we walked through the premises we noticed something which shooked us that is water was not treated properly before letting it into water bodies,  due to covid water is the main resource if water is polluted heath of people affected with covid will be the worst situation ever considering all this we concluded treating the water before living it to the  water bodies in an effective manner which is derived by machine learning along with a bot which makes the process even simpler then it looks
 
 - [sample-react-app](./sample-react-app/)
 - [sample-angular-app](./sample-angular-app/)
