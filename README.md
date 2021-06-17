@@ -40,9 +40,11 @@ Water pollution is the major crisis all over the world. To overcome this we came
 
 Below is the link for preview of WATSON assistant.
 
+
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=7cacf0f5-9473-4fab-b7ea-b8f25aff1387&serviceInstanceID=d9a611a6-7332-45c0-9a2a-486be4956b68
 
 Script for Integrating  WATSON assistant
+
 
 <script>
   window.watsonAssistantChatOptions = {
