@@ -54,7 +54,7 @@ Water pollution is the major crisis all over the world. To overcome this we came
 
 ## Getting started
 
-Since we went for a visit to BHEL, as we walked through the premises we noticed something which shooked us that is water was not treated properly before letting it into water bodies,  due to covid water is the main resource if water is polluted heath of people affected with covid will be the worst situation ever considering all this we concluded treating the water before living it to the  water bodies in an effective manner which is derived by machine learning along with a bot which makes the process even simpler then it looks
+Since we went for a industrial visit, as we walked through the premises we noticed something which shooked us that is water was not treated properly before letting it into water bodies,  due to covid water is the main resource if water is polluted heath of people affected with covid will be the worst situation ever considering all this we concluded treating the water before living it to the  water bodies in an effective manner which is derived by machine learning along with a bot which makes the process even simpler then it looks
 
 ## Live demo
 
