@@ -1,4 +1,4 @@
-# Submission or project name
+# Treatment of 
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
@@ -38,8 +38,11 @@ Water pollution is the major crisis all over the world. To overcome this we came
 
 ## Demo video
 
-Below is the link for preview of ###WATSON assistant
+Below is the link for preview of WATSON assistant.
+
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=7cacf0f5-9473-4fab-b7ea-b8f25aff1387&serviceInstanceID=d9a611a6-7332-45c0-9a2a-486be4956b68
+
+
 
 <script>
   window.watsonAssistantChatOptions = {
