@@ -42,33 +42,22 @@ Below is the link for preview of WATSON assistant.
 
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=7cacf0f5-9473-4fab-b7ea-b8f25aff1387&serviceInstanceID=d9a611a6-7332-45c0-9a2a-486be4956b68
 
-
+Script for Integrating  WATSON assistant
 
 <script>
-  
   window.watsonAssistantChatOptions = {
-  
       integrationID: "b7981f4c-3776-40f7-a59d-be64fd93c1ba", // The ID of this integration.
-  
       region: "eu-gb", // The region your integration is hosted in.
-  
       serviceInstanceID: "d9a611a6-7332-45c0-9a2a-486be4956b68", // The ID of your service instance.
-  
       onLoad: function(instance) { instance.render(); }
-  
     };
-  
   setTimeout(function(){
-  
     const t=document.createElement('script');
-  
     t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
-  
     document.head.appendChild(t);
-  
   });
-  
 </script>
+
 
 
 ## The architecture
