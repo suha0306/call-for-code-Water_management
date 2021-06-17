@@ -80,7 +80,7 @@ Since we went for a industrial visit, as we walked through the premises we notic
 
 ## Live demo
 
-(https://user-images.githubusercontent.com/73995141/122448665-dc4ced00-cf59-11eb-8976-d2a4302ebc24.mp4).
+https://user-images.githubusercontent.com/73995141/122448665-dc4ced00-cf59-11eb-8976-d2a4302ebc24.mp4
 
 ## Built with 
 
